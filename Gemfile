@@ -14,7 +14,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 #....................Newly Added Gem Files...................
 gem 'devise', '~> 4.5'
-
+gem 'bower', '~> 0.0.5'
+gem 'bootstrap-sass', '~> 3.3'
 
 
 #.............Non nstalled Ruby Gems.................
